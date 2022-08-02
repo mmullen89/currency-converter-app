@@ -1,0 +1,10 @@
+footer {
+  background-color: #6514ec;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  color:#FDFDFE;
+}
+
+footer a {
+  text-decoration: none;
+  color:#FDFDFE;
+}
