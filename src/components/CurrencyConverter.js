@@ -93,7 +93,7 @@ class CurrencyConverter extends React.Component {
               <div className="row">
                 <div className="col-12 amount">
                   <label>
-                    <div className="text-center me-2">Enter Amount:</div>
+                    <div className="text-center me-2">Enter Amount: </div>
                     <input type="number" name="amount" value={amount} onChange={this.handleChange} />
                   </label>
                 </div>
