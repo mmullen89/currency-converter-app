@@ -58,9 +58,7 @@
   justify-content: space-evenly;
 }
 
-.swap{
-  height:25px;
-}
+
 
 /**.swapButton{
   border: 1px solid rgb(6, 1, 27);
@@ -85,6 +83,10 @@ input {
   border-radius: 5px;
   background-color:#FAFAFA ;
   box-shadow: 6px 5px 9px 0px rgba(0,0,0,0.17);
+}
+
+.swap{
+  box-shadow:none;
 }
 
 .grow { 
