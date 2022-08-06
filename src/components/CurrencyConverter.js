@@ -179,7 +179,7 @@ class CurrencyConverter extends React.Component {
                   </div>
               </div>
             <div className="row">
-              <div className="col-12 ms-3 quoteDisplay">
+              <div className="col-12 ms-3 quoteDisplay centerContent">
                 <span className="quote">{amount} {baseCurrency} equals <span className="quotedTotal">{quoteAmount} {quoteCurrency}</span></span>
                 <span>1 {baseCurrency} = {Number(this.state.rates[this.state.quoteCurrency]).toFixed(5)} {quoteCurrency}</span>
               </div>
